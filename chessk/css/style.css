@@ -1,0 +1,15 @@
+.all{
+    border: 2px solid black;
+    width: 400px ;
+    height: 400px;
+}
+.blackbox{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+.WHITEBOX{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+}

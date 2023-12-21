@@ -1,0 +1,123 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+.page{
+    height: 520px;
+    width: 500px;
+    border: 2px solid white;
+    background-color: lightgray;
+    float: left;
+}
+.pic{
+    float: left;
+    height: 520px;
+    width: 500px;
+    border: 2px solid white;
+    margin-left: 5px;
+
+}
+.small{
+    height: 400px;
+    width: 350px;
+    border: 2px solid white;
+background-color: white;
+    margin-left: 80px;
+    margin-top: 60px;
+    
+
+}
+.mj{
+    padding-top: 2px;
+    padding-left: 15px;
+
+}
+.log{
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-left: 8px;
+    padding-top: 5px;
+}
+.lab{
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-left: 8px;
+    padding-top: 5px;
+}
+
+.icon{
+    border: 2px solid white;
+    margin-left: 9px;
+    padding-left: 8px;
+    float: left;
+  
+}
+.mail{
+   float: right;
+}
+.pass{
+      margin-left: 10px;
+    margin-top: 10px;
+    padding-left: 8px;
+    padding-top: 5px;
+}
+.ic{
+
+    margin-left: 11px;
+    padding-left: 8px;
+    float: left;
+    height: 18px;
+    width: 20px;
+
+
+}
+.check{
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-left: 8px;
+    padding-top: 5px;
+    float: left;
+}
+.ek{
+    margin-top: 15px;
+    padding-left: 200px;
+    color: darkgreen;
+}
+.rg{
+    background-color: darkgreen;
+    color: white;
+    width: 300px;
+    margin-left: 15px;
+    text-align: center;
+    height: 20px;
+    margin-top: 30px;}
+button{
+    background-color: darkgreen;
+    color: white;
+    width: 300px;
+
+
+}
+.sign{
+    margin-left: 200px; 
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.ran{
+    margin-top: 20px;
+    margin-left: 135px; 
+
+}
+.ant{
+    margin-left: 70px;
+    padding-top: 10px;
+    float: left;
+}
+.bat{
+ background-color: white;
+ color: green;
+ height: 20px;
+ width: 100px;
+ border: 2px solid white;
+ padding-top: 9px;
+}
